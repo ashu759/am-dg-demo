@@ -9,6 +9,7 @@ export const x_snc_lwp_demo_to_do = Table({
         status: StringColumn({ label: 'Status', maxLength: 40 }),
     },
 })
+
 //creates a client script that pops up 'Table loaded successfully!!' message everytime todo record is loaded
 ClientScript({
     $id: Now.ID['cs0'],
