@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[{
+    "name": "x-snc-lwp-demo",
+    "version": "0.0.1",
+    "description": "Testing",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk deploy",
+        "fetch": "now-sdk fetch",
+        "dependencies": "now-sdk dependencies"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "2.0.0",
+        "@servicenow/glide": "26.0.1",
+        "eslint": "8.50.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "2.0.0"
+    }
+}
+]]></content>
+        <external_source>false</external_source>
+        <path>x_snc_lwp_demo/x-snc-lwp-demo/0.0.1/package.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>ashutosh.munot</sys_created_by>
+        <sys_created_on>2024-09-08 12:58:48</sys_created_on>
+        <sys_id>dce5f2c11b28121021b62064604bcb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_lwp_demo/x-snc-lwp-demo/0.0.1/package.json</sys_name>
+        <sys_package display_value="LWP Demo" source="x_snc_lwp_demo">030dc8ab51054aa9a2594a623852afd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LWP Demo">030dc8ab51054aa9a2594a623852afd7</sys_scope>
+        <sys_update_name>sys_module_dce5f2c11b28121021b62064604bcb44</sys_update_name>
+        <sys_updated_by>ashutosh.munot</sys_updated_by>
+        <sys_updated_on>2024-09-08 12:58:48</sys_updated_on>
+    </sys_module>
+</record_update>
